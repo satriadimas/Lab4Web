@@ -27,7 +27,7 @@ Universitas Pelita Bangsa
 </html>
 ```
 
-![LANGKAH 1 membuat dokumen](https://user-images.githubusercontent.com/22215113/115274283-b0d0a080-a16a-11eb-9332-c3248a7e61a0.png)
+![LANGKAH 1 membuat dokumen](https://user-images.githubusercontent.com/20396585/161412463-ed8037a2-ff1d-434e-bda2-a76865fb0bed.png)
 
 ## LANGKAH 2
 
@@ -41,7 +41,7 @@ Universitas Pelita Bangsa
 </section>
 ```
 
-![LANGKAH 2 membuat box element](https://user-images.githubusercontent.com/22215113/115274297-b3cb9100-a16a-11eb-8d7d-4a8bfacc2adf.png)
+![LANGKAH 2 membuat box element](https://user-images.githubusercontent.com/20396585/161412478-c5e70d71-5a6d-4ac7-9a79-bd42d6fa6526.png)
 
 ## LANGKAH 3
 
@@ -70,7 +70,7 @@ Universitas Pelita Bangsa
 </style>
 ```
 
-![LANGKAH 3 tambahkan deklarasi CSS pada head untuk membuat float element](https://user-images.githubusercontent.com/22215113/115274318-b7f7ae80-a16a-11eb-9e60-be68202d0c0a.png)
+![LANGKAH 3 tambahkan deklarasi CSS pada head untuk membuat float element](https://user-images.githubusercontent.com/20396585/161412497-dd9e522b-aea6-4bdd-844e-92bb57bf5898.png)
 
 ## LANGKAH 4
 
@@ -98,7 +98,7 @@ Universitas Pelita Bangsa
 }
 ```
 
-![LANGKAH 4 Mengatur Clearfix Element](https://user-images.githubusercontent.com/22215113/115274344-be862600-a16a-11eb-96c3-0b47bee7ab05.png)
+![LANGKAH 4 Mengatur Clearfix Element](https://user-images.githubusercontent.com/20396585/161412511-b98fe38d-4529-43ae-960d-dcb51e18267e.png)
 
 # Membuat Layout Sederhana
 
@@ -178,10 +178,9 @@ header h1 {
 }
 ```
 
-![LANGKAH 5 membuat html dan css baru untuk layout (coding)](https://user-images.githubusercontent.com/22215113/115271004-17ec5600-a167-11eb-9e41-76c7805138dc.png)
-
 - Buka file `home.html` pada web browser
-  ![LANGKAH 5 membuat html dan css baru untuk layout](https://user-images.githubusercontent.com/22215113/115271087-29356280-a167-11eb-9767-81f71710cb6a.png)
+  ![LANGKAH 5 membuat html dan css baru untuk layout](https://user-images.githubusercontent.com/20396585/161412728-21adf557-5af1-4c1f-afd8-7f00b035c79f.png)
+
 
 ## LANGKAH 2
 
@@ -207,7 +206,8 @@ nav a:hover {
 }
 ```
 
-![LANGKAH 6 membuat navigasi](https://user-images.githubusercontent.com/22215113/115271614-b5e02080-a167-11eb-982b-1f5f950965f3.png)
+![LANGKAH 6 membuat navigasi](https://user-images.githubusercontent.com/20396585/161412758-c10d9f79-6c66-46a9-8e3e-26591c81d78c.png)
+
 
 ## LANGKAH 2
 
@@ -246,10 +246,8 @@ pretium ac.</p>
 }
 ```
 
-![LANGKAH 7 membuat hero panel (coding)](https://user-images.githubusercontent.com/22215113/115271921-0b1c3200-a168-11eb-8e94-7acf6574d38b.png)
-
 - Hasilnya
-  ![LANGKAH 7 membuat hero panel](https://user-images.githubusercontent.com/22215113/115271866-fc357f80-a167-11eb-8bd8-9d6c2016df07.png)
+  ![LANGKAH 7 membuat hero panel](https://user-images.githubusercontent.com/20396585/161412814-ab90f2f7-c01c-4674-94d0-eb66d10660f1.png)
 
 ## LANGKAH 3
 
@@ -276,7 +274,8 @@ pretium ac.</p>
 }
 ```
 
-![LANGKAH 8 mengatur main layout dan sidebar](https://user-images.githubusercontent.com/22215113/115272131-43237500-a168-11eb-9adc-6e9492b36602.png)
+![LANGKAH 8 mengatur main layout dan sidebar](https://user-images.githubusercontent.com/20396585/161412826-ab2a5c5e-f126-4573-954f-49cb4e75a6f9.png)
+
 
 ## LANGKAH 4
 
@@ -338,11 +337,9 @@ pharetra est nunc, nec pretium nunc pretium ac.</p>
     line-height:25px;
 }
 ```
-
-![LANGKAH 9 membuat sidebar widget (coding)](https://user-images.githubusercontent.com/22215113/115272508-aca38380-a168-11eb-81df-4fe2834f1933.png)
-
 - Hasilnya
-  ![LANGKAH 9 membuat sidebar widget](https://user-images.githubusercontent.com/22215113/115272539-b4632800-a168-11eb-8cd5-58a5a506089b.png)
+  ![LANGKAH 9 membuat sidebar widget](https://user-images.githubusercontent.com/20396585/161412848-5015e2c9-f492-49ae-98ea-6611b4ab8ba0.png)
+
 
 ## LANGKAH 5
 
@@ -358,7 +355,7 @@ footer {
 }
 ```
 
-![LANGKAH 10 mengatur footer](https://user-images.githubusercontent.com/22215113/115272643-d6f54100-a168-11eb-8885-ce8a1735cb96.png)
+![LANGKAH 10 mengatur footer](https://user-images.githubusercontent.com/20396585/161412854-e1245cae-d011-4f9d-956f-9ffa1cf0f87d.png)
 
 ## LANGKAH 6
 
@@ -443,10 +440,9 @@ box img {
 }
 ```
 
-![LANGKAH 11 Menambahkan Elemen lainnya pada Main Content (coding)](https://user-images.githubusercontent.com/22215113/115273030-3f442280-a169-11eb-9cf1-d3c392fdc2c0.png)
-
 - Hasilnya
-  ![LANGKAH 11 Menambahkan Elemen lainnya pada Main Content](https://user-images.githubusercontent.com/22215113/115273125-5edb4b00-a169-11eb-99ef-f830b673b08f.png)
+  ![LANGKAH 11 Menambahkan Elemen lainnya pada Main Content](https://user-images.githubusercontent.com/20396585/161412879-bebe26dc-8975-459a-a536-0e2bdff9d3be.png)
+
 
 ## LANGKAH 7
 
@@ -505,10 +501,8 @@ pretium ac.</p>
 }
 ```
 
-![LANGKAH 12 Menambahkan Content Artikel (coding)](https://user-images.githubusercontent.com/22215113/115273318-9813bb00-a169-11eb-92c7-d3b72b3c13dc.png)
-
 - Hasilnya
-  ![LANGKAH 12 Menambahkan Content Artikel](https://user-images.githubusercontent.com/22215113/115273353-a19d2300-a169-11eb-9b0d-c59da4fa950c.png)
+  ![LANGKAH 12 Menambahkan Content Artikel](https://user-images.githubusercontent.com/20396585/161412922-0751beb5-9cb0-4808-8a73-9252a6597d9f.png)
 
 ## TUGAS
 
@@ -574,10 +568,9 @@ pretium ac.</p>
 }
 ```
 
-![About (coding)](https://user-images.githubusercontent.com/22215113/115273738-1f612e80-a16a-11eb-9bb3-3a7c0c2ef05c.png)
-
 - Hasilnya
-  ![About](https://user-images.githubusercontent.com/22215113/115273777-29832d00-a16a-11eb-8cec-e5c4d1d4da61.png)
+  ![About](https://user-images.githubusercontent.com/20396585/161413029-93c1afea-ffce-434b-80c3-207f4aafaa94.png)
+
 
 ### 2. Tambahkan layout untuk menu Contact
 
@@ -656,7 +649,5 @@ button :hover{
 }
 ```
 
-![Kontak (coding)](https://user-images.githubusercontent.com/22215113/115274176-9a2a4980-a16a-11eb-970f-ca2d6fe6d1ad.png)
-
 - Hasilnya
-  ![Kontak](https://user-images.githubusercontent.com/22215113/115274198-a0b8c100-a16a-11eb-85ef-dfbef7a5be01.png)
+  ![Kontak](https://user-images.githubusercontent.com/20396585/161413044-6f8c6464-4481-4d25-8977-c69f06adbc94.png)
